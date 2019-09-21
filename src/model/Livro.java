@@ -103,8 +103,3 @@ public class Livro {
 	}
 
 }
-
-//leolandia
-//asjdjasjdoaijdoiasjdas
-//asdjoiasjdioasjdioajsiodj
-//aksdlasjdoajdioasjdoaisjd
